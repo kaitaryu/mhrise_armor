@@ -3,7 +3,7 @@ There are various types of armor in Monster Hunter Rise, but it is troublesome t
 
 2021/05/29 add skill(龍気活性), add armor(赫耀ノヘルム,赫耀ノメイル,赫耀ノアーム,赫耀ノコイル,赫耀ノグリーヴ)
 
-##List of skills you can set up
+# List of skills you can set up
 
 KO術,アイテム使用強化,ガード強化,ガード性能,キノコ大好き,ジャンプ鉄人,スタミナ急速回復,スタミナ奪取,
 ひるみ軽減,フルチャージ,ボマー,ランナー,炎鱗の恩恵,火事場力,火属性攻撃強化,霞皮の恩恵,会心撃【属性】,
@@ -17,13 +17,13 @@ KO術,アイテム使用強化,ガード強化,ガード性能,キノコ大好き,ジャンプ鉄人,スタミナ急
 満足感,陽動,雷属性攻撃強化,雷紋の一致,龍属性攻撃強化,力の解放,渾身,翔蟲使い,火耐性,ブレ抑制,水耐性,
 剥ぎ取り鉄人,氷耐性,雷耐性,龍耐性,龍気活性
 
-##Use
+# Use
 
 ```
 python main.py --select "攻撃,弱点特効,見切り,超会心"
 ```
 
-##Output
+# Output
 
 ```
 Long-step dual simplex will be used
